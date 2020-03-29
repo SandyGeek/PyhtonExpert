@@ -1,4 +1,5 @@
 file = open('file.txt', 'w')
+
 try:
     file.write(" Hello Mota!! ")
 finally:
